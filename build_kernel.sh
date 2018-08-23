@@ -1,7 +1,7 @@
 #!/bin/bash
 # kernel build script by somadsul
 
-KERNEL_DIR=/home/ishanpatel_96/Downloads/GT-I9500/kernel
+KERNEL_DIR=/home/somadsul/i9500/kernel_i9500
 BUILD_USER="$USER"
 TOOLCHAIN_DIR=/opt
 
